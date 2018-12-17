@@ -1,4 +1,4 @@
-# CSP Prisoner's Dilemma, Summer 2018
+# CSP Prisoner's Dilemma
 ### Initial Setup
 1. FORK this repository into your own account.
 2. CLONE that copy onto your desktop.
